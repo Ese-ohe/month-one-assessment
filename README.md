@@ -118,16 +118,15 @@ To avoid unnecessary AWS charges, all resources were destroyed after testing usi
 
 ```bash
 terraform destroy
+```
 
 ---
 
 ## Final Note
 
 This project demonstrates practical implementation of AWS infrastructure using Terraform, following best practices for:
-
-- Security  
-- Scalability  
-- Reliability  
-- Infrastructure automation  
-
----
+	•	Security
+	•	Scalability
+	•	Reliability
+	•	Infrastructure automation
+--- 
